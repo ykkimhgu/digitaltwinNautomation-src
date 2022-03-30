@@ -72,10 +72,11 @@ Read the reference journal and implement in MATLAB
 For Dataset 
 
 * CWRU dataset similarly to Journal dataset
+* Download CWRU dataset for this journal: [Download here](https://drive.google.com/file/d/1pv-0E8hA77Nr5-gHwVgPq3PR2rdyCj_-/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/38373000/160838885-b74dc1af-4bc9-4bd1-a76f-0bff7f5dd00a.png" alt="image-20220328150553353" style="zoom:50%;" />
 
-* Download CWRU dataset for this journal: [Download here](https://drive.google.com/file/d/1pv-0E8hA77Nr5-gHwVgPq3PR2rdyCj_-/view?usp=sharing)
+
 
 
 
