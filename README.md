@@ -105,6 +105,22 @@ For Classification Use
 
   ​
 
+***Experiment***
+Output: Accuracy & Confusion Matrix  
+
+EX1. Without Selection
+* Features:Statistical / Envelope / WPT / Global Pool 
+* Classifer: SVM / K-NN / Decision Tree
+
+![image](https://user-images.githubusercontent.com/38373000/160844618-4278e8d1-7504-44cb-bb7a-ceceb3d233c0.png)
+
+EX2. With Selection/Reduction
+* Features: Global Pool 
+* Selection:  PCA / Forward selection
+* Classifer: SVM / K-NN / Decision Tree
+
+![image](https://user-images.githubusercontent.com/38373000/160844485-256380c6-5a2a-452e-88f3-36279ac55c04.png)
+
 ### Report
 
 Submit  in mlx & mat files:  
