@@ -91,6 +91,7 @@ For Feature Extraction
 For Feature Reduction/Selection Use only
 
 - Sequential Forward Selection
+- PCA
 
 
 
