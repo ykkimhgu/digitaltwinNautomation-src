@@ -129,6 +129,41 @@ Submit  in mlx & mat files:
 * *.mat // for other necessary files
 
 ---
+
+
+
+## LAB:  Bearing Fault Monitoring and RUL Estimation
+
+### Instruction
+
+In this LAB, you are required to create a simple code for Fault Monitoring and RUL estimation
+You can refer to RUL estimation tutorial codes and related papers
+
+### Fault Monitoring
+
+* Detect Fault Status
+* Display WARNING MESSAGE
+
+### RUL Estimation
+
+* Estimate RUL similar to Tutorial codes
+* The end of Life can be assumed when the repair is done
+
+### Dataset
+
+Raw Dataset of Bearing Velocity measured that shows a Bearing Life cycle before the repair is done. Also the velocity measurement after the repair is provided.
+
+* Bearing velocity measured 24 times per day
+* Each measurement is L=8192 with Fs=2560Hz  
+* Measurement for consecutive days until repair is done
+
+
+
+
+
+
+
+---
 # Project : PHM
 
 
