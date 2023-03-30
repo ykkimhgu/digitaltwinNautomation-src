@@ -32,6 +32,15 @@ For the dataset, we will use
 
 <img src="https://user-images.githubusercontent.com/38373000/160838885-b74dc1af-4bc9-4bd1-a76f-0bff7f5dd00a.png" alt="image-20220328150553353" style="zoom:80%;" />
 
+### 
+ Use 10 classes:  3 from Inner, 3 from Outer, 3 from Ball and 1 from Normal
+ 
+ Example:  Inner-007 Class should contain
+ * Inner_DE_007.mat : use DE_time only
+ * Inner_FE_007.mat : use FE_time only
+ 
+ For Normal dataset, use similar number of dataset as other fault class datasets
+ 
 ## Report
 
 The file name should be  **LAB_BearingDiagnosisCWRU_YourName.***   // for main src and report
