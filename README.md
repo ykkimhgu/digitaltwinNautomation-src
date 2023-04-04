@@ -1,11 +1,10 @@
-# digitaltwinNautomation-src
+# Industry AI and Automation - Assignment, Lab, Projects
 
 # Assignment
 
 
 
-## Assignment:  Pre-Processing & Feature Extraction
-
+## Assignment 1:  Pre-Processing & Feature Extraction
 
 
 ### Preparation
@@ -16,7 +15,6 @@ Download small CWRU Dataset (**[download here](https://github.com/ykkimhgu/digit
 
 * 1 data file for each fault state
 * Normal / Outer Race fault / Inner Race fault
-
 
 
 
@@ -52,111 +50,25 @@ Submit  in mlx file:  Assignment_FeatureExtraction_Name.mlx
 
 ---
 
-## Assignment:  Machine Learning
+## Assignment 2:  Machine Learning
 
 Submit all tutorial exercise files
 
 
 
-
+---
 
 # LAB
 
-## LAB: Bearing Fault Diagnosis
+## LAB 1: Bearing Fault Diagnosis
 
-Read the reference journal and implement in MATLAB
-
-* Thomas W. Rauber et al. "Heterogeneous Feature Models and Feature Selection Applied to Bearing Fault Diagnosis", IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS, VOL. 62, NO. 1, JANUARY 2015
-
-
-For Dataset 
-
-* CWRU dataset similarly to Journal dataset
-* Download CWRU dataset for this journal: [Download here](https://drive.google.com/file/d/1pv-0E8hA77Nr5-gHwVgPq3PR2rdyCj_-/view?usp=sharing)
-
-<img src="https://user-images.githubusercontent.com/38373000/160838885-b74dc1af-4bc9-4bd1-a76f-0bff7f5dd00a.png" alt="image-20220328150553353" style="zoom:50%;" />
+[Click here for the LAB Instruction](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_CWRU_BearingFaultClassification_LAB.md)
 
 
 
+## LAB 2:  Bearing Fault Monitoring and RUL Estimation
 
-
-For Feature Extraction 
-
-* Statistical Features
-* Complex Envelope Analysis
-* Wavelet Package Analysis
-
-
-
-For Feature Reduction/Selection Use only
-
-- Sequential Forward Selection
-- PCA
-
-
-
-For Classification Use 
-
-* SVM
-
-* KNN
-
-* Decision Tree
-
-  ​
-
-***Experiment***
-Output: Accuracy & Confusion Matrix  
-
-EX1. Without Selection
-* Features:Statistical / Envelope / WPT / Global Pool 
-* Classifer: SVM / K-NN / Decision Tree
-
-![image](https://user-images.githubusercontent.com/38373000/160844618-4278e8d1-7504-44cb-bb7a-ceceb3d233c0.png)
-
-EX2. With Selection/Reduction
-* Features: Global Pool 
-* Selection:  PCA / Forward selection
-* Classifer: SVM / K-NN / Decision Tree
-
-![image](https://user-images.githubusercontent.com/38373000/160844485-256380c6-5a2a-452e-88f3-36279ac55c04.png)
-
-### Report
-
-Submit  in mlx & mat files:  
-
-* LAB_PHM_CWRU_Name.mlx  // for main src and report
-* *.mat // for other necessary files
-
----
-
-
-
-## LAB:  Bearing Fault Monitoring and RUL Estimation
-
-### Instruction
-
-In this LAB, you are required to create a simple code for Fault Monitoring and RUL estimation
-You can refer to RUL estimation tutorial codes and related papers
-
-### Fault Monitoring
-
-* Detect Fault Status
-* Display WARNING MESSAGE
-
-### RUL Estimation
-
-* Estimate RUL similar to Tutorial codes
-* The end of Life can be assumed when the repair is done
-
-### Dataset
-
-Raw Dataset of Bearing Velocity measured that shows a Bearing Life cycle before the repair is done. Also the velocity measurement after the repair is provided.
-
-* Bearing velocity measured 24 times per day
-* Each measurement is L=8192 with Fs=2560Hz  
-* Measurement for consecutive days until repair is done
-
+[Click here for the LAB Instruction]([https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_CWRU_BearingFaultClassification_LAB.md](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_Prognostic_BearingFault_RUL_LAB.md))
 
 
 
@@ -165,7 +77,6 @@ Raw Dataset of Bearing Velocity measured that shows a Bearing Life cycle before 
 
 ---
 # Project : PHM
-
 
 
 ## Problem 1: PHM implementation
