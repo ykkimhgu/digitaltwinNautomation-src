@@ -68,7 +68,7 @@ Submit all tutorial exercise files
 
 ## LAB 2:  Bearing Fault Monitoring and RUL Estimation
 
-[Click here for the LAB Instruction]([https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_CWRU_BearingFaultClassification_LAB.md](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_Prognostic_BearingFault_RUL_LAB.md))
+[Click here for the LAB Instruction](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_Prognostic_BearingFault_RUL_LAB.md))
 
 
 
