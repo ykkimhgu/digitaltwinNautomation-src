@@ -22,7 +22,7 @@ In this LAB, you are required to create a simple code for (1) Fault Monitoring a
 
 
 
-**Download** template matlab code  this lab: [Download here](https://drive.google.com/file/d/1L9iz34MI8v469J30SCM6_38TT7TICXrX/view?usp=share_link)
+**Download** template matlab code  this lab: [Download here](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/Assignment/LAB_Bearing_RUL/IAIA_Bearing_RUL_Prognosis_LAB.mlx)
 
 
 
