@@ -21,7 +21,7 @@ Submit all machine learning tutorial matlab  files
 * KNN, SVM, TREE, LDA
 *  PCA, Feature Selection
 
----
+
 
 ---
 
