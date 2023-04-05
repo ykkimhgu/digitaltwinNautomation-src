@@ -21,10 +21,9 @@ Features should include
 * Frequency-Domain Feature: basic features,  SKMean, SKStd, SKSkewness, SKKurtosis
 
 
-
 ### Preparation
 
-Download Template Matlab Source file ([download here](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/Assignment/Assignment_FeatureExtraction_CWRU/DTA_Assignment_CWRU_FeatureExtraction_student.mlx))
+Download Template Matlab Source file ([download here)](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/Assignment/Assignment_Diagnosis101CWRU/IAIA_Assignment_Diagnosis101_student.mlx)
 
 Download small CWRU Dataset (**[download here](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/Assignment/Assignment_FeatureExtraction_CWRU/Assignment_FeatureExtraction_CWRU_data.zip)**)
 
