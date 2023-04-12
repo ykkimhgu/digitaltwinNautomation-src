@@ -42,8 +42,7 @@ Submit all machine learning tutorial matlab  files
 ---
 # Project 
 
-### [Project 1: PHM](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_Project_PHM.md)
-
+### [Project 1: PHM](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/IAIA_Project1_PHM.md)
 
 
 ### Project 2: Robot Automation
