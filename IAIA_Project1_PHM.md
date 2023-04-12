@@ -58,6 +58,8 @@ Also, submit **LAB_Bearing_RUL_Prognosis_YourName.pdf** file.
 
 * Other than CWRU from the [recommended dataset list]( https://ykkim.gitbook.io/wiki/industrial-ai/phm-dataset)
 
+* [Comprehensive List of PHM dataset](https://github.com/ykkimhgu/digitaltwinNautomation-src/blob/main/PHM%20Dataset%20list%20journal.pdf)
+
 * You can also choose other PHM datasets for other mechanical parts such as Gears, Battery etc
 
 * You can choose either  Diagnostics or Prognostics
