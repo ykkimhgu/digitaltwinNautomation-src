@@ -32,9 +32,9 @@ $FILENAME=**Project1-1_BearingDiagnosis_YourName.**
 
 Submit the report either
 
-* (Option 1) $FILENAME$.mlx & mat files (Recommended)
+* (Option 1) $FILENAME$.mlx & m files (Recommended)
 
-* (Option 2) or $FILENAME$.md and *.mat files. 
+* (Option 2) or $FILENAME$.md and *.m files. 
 
   > When writing a report in *.md format, you have to embed the code snippets as done in *.mlx file.
 
