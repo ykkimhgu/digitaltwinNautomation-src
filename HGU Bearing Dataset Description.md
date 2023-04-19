@@ -37,6 +37,12 @@ The test bearings support the motor shaft. Defects were introduced at a single p
 -  **Ball fault size**: 
    -  diameter 1 mm / depth 1 mm
 
+**Bearing Info:**
+* D1 = 37.05
+* D2 = 24.95
+* N_B = 13
+* Beta = 6.05
+
 ### Other Faults
 
 The testbench can also apply shaft misalignment faults and load imbalance faults
