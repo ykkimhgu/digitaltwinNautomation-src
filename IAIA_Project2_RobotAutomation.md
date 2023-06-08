@@ -2,16 +2,6 @@
 
 
 
-일정
-
-- 발표 및 데모: 6/17 금요일 오후 7시
-
-- 보고서 및 제출자료: 6/20 월요일 오후 1시
-
-
-
-
-
 # Problem
 
 Implement an automation process using a co-robot.  You can refer to previous project topics
