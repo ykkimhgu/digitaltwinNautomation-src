@@ -145,6 +145,7 @@ You can refer to example reports
 | **Demonstration**            | (30) Successful Demonstration                                | (20) Partially Successful                     | (10) Poor Demonstration    | 0        |
 
 
+There can be extra points for demonstration
 
 ## Lab Report (40%)
 
